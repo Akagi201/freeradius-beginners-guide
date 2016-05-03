@@ -1,0 +1,22 @@
+{
+  "title": "FreeRADIUS Beginner's Guide",
+  "description": "Chinese version of FreeRADIUS Beginner's Guide",
+  "author": "Akagi201",
+  "language": "zh-hans",
+  "plugins": ["ga", "disqus", "github", "edit-link"],
+  "pluginsConfig": {
+    "ga":{
+      "token": "UA-46663685-12"
+    },
+    "disqus": {
+      "shortName": "freeradius"
+    },
+    "github": {
+      "url": "https://github.com/Akagi201/freeradius-beginners-guide"
+    },
+    "edit-link": {
+      "base": "https://github.com/Akagi201/freeradius-beginners-guide/edit/master",
+      "label": "Edit This Page"
+    }
+  }
+}
