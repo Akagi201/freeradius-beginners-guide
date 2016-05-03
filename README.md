@@ -1,5 +1,11 @@
 # RTSSBook
 
+## 捐款连接
+* 本人已经不做 RADIUS 这块东西了. 由于有大量的朋友给我邮件来索取和督促我来继续翻译完这边书, 所以, 放个捐款连接吧.
+* 规则: 每收到 10 块钱, 更新一章.
+
+![payme](assets/payme.jpg)
+
 ## Outline
 
 * [ch00 序](ch00-intro/preface.md)
