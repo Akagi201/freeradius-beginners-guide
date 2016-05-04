@@ -8,7 +8,8 @@
 
 ## Outline
 
-* [ch00 序](ch00-intro/preface.md)
+* [ch00 序](ch00-intro/README.md)
+  * [序言](ch00-intro/00_01_preface.md)
 * [ch01 介绍 AAA 和 RADIUS](ch01-aaa-and-radius/README.md)
   * [Authentication, Authorization 和 Accounting](ch01-aaa-and-radius/01_01_aaa.md)
   * [RADIUS](ch01-aaa-and-radius/01_02_radius.md)

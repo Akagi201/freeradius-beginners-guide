@@ -1,0 +1,1 @@
+FreeRADIUS新手入门包含了大量实际的练习来帮助你学会从基础的安装到更高级的配置像集成LDAP和Active Directory的一切.这本书将会帮助你理解在FreeRADIUS里面的authentication, authorization和accounting使用现在最流行的linux发行版. 使用realms和fail-over配置的更大规模的部署也在tips里面涵盖到了. 每个章节最后有一个课堂测试来验证你的理解.
